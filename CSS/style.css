@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+}
+.title{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 7vh;
+}
+.subtitle{
+    font-size: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 7vh;
+}
+.text{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 5vh;
+}
+.subtext{
+    font-size: 15px;
+    text-align: center;
+}
+.cab{
+    width: 100%;
+    height: 20vh;
+    padding-top: 5vh;
+}
+.g1{
+    width: 90%;
+    height: 23.5vh;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+    align-items: center;
+    margin-bottom: 3vh;
+}
+.g2{
+    width: 66.5%;
+    height: 23.5vh;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 16.75%;
+    align-items: center;
+    margin-bottom: 5vh;
+}
+.cont{
+    width: 100%;
+    height: 45vh;
+    background-color: aquamarine;
+    display: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+.g3{
+    width: 65%;
+    height: 55%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 17.5%;
+    background-color: beige;
+}
+.blo1{
+    width: 25%;
+    height: 100%;
+    background-color: blue;
+}
+.blo2{
+    width: 25%;
+    height: 100%;
+    background-color: brown;
+}
+.blo3{
+    width: 25%;
+    height: 100%;
+    background-color: blueviolet;
+}
+.g4{
+    width: 50%;
+    height: 35%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 25%;
+}
+.image{
+    width: 95%;
+    height: 14vh;
+    margin-bottom: 13vh;
+    margin-left: 1.25%;
+}
+.imagel{
+    width: 22.5%;
+    height: 100%;
+}
+.img4{
+    width: 100%;
+    height: 100%;
+}
